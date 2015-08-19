@@ -1,0 +1,6 @@
+node_modules
+dist
+src/styles/vendor
+*.sw?
+node_modules/
+dist/
